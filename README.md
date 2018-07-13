@@ -11,7 +11,7 @@ https://mikima.github.io/encyclopediadramatica-explorer/redirects-network/
 
 ## Images and memes categorize with Google Vision Labels
 
-https://mikima.github.io/encyclopediadramatica-explorer/images-networks/ed-google-labels.svg
+https://mikima.github.io/encyclopediadramatica-explorer/images-networks/ed-google-labels.html
 
 ## Images and memes categorize with Google Vision Web Entities
 
