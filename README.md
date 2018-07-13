@@ -1,6 +1,10 @@
 # encyclopediadramatica-explorer
 A set of visualisations exploring æ
 
+## Main pages clusters
+
+[https://mikima.github.io/encyclopediadramatica-explorer/pages-clusters](https://mikima.github.io/encyclopediadramatica-explorer/pages-clusters)
+
 ## Categories and pages
 
 https://mikima.github.io/encyclopediadramatica-explorer/categories-network/
@@ -15,4 +19,4 @@ https://mikima.github.io/encyclopediadramatica-explorer/images-networks/ed-googl
 
 ## Images and memes categorize with Google Vision Web Entities
 
-https://mikima.github.io/encyclopediadramatica-explorer/images-networks/ed-google-web-entities.svg
+https://mikima.github.io/encyclopediadramatica-explorer/images-networks/ed-google-web-entities.html
