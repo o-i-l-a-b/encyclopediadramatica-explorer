@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="4000px" height="4000px" viewBox="0 0 4000 4000" style="enable-background:new 0 0 4000 4000;" xml:space="preserve">
 <style type="text/css">
@@ -115,7 +115,8 @@
 		<circle class="st0" cx="3558.9" cy="2501.3" r="238.3"/>
 		<circle class="st0" cx="2711.7" cy="645.6" r="124.5"/>
 		<circle class="st0" cx="1508.2" cy="575.1" r="133.6"/>
-		<circle class="st0" cx="2102.3" cy="3547.1" r="184.9"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1892.4291 2525.4722)" class="st0" cx="2102.3" cy="3547.1" rx="184.9" ry="184.9"/>
 		<circle class="st0" cx="3383.7" cy="2128.3" r="66.9"/>
 		<circle class="st0" cx="3202.1" cy="3014.6" r="178.5"/>
 		<circle class="st0" cx="522.8" cy="1954.1" r="164.5"/>
@@ -206,12 +207,15 @@
 		<circle class="st2" cx="2080.5" cy="2170.3" r="25.9"/>
 		<circle class="st2" cx="2398.1" cy="1865.7" r="54.6"/>
 		<circle class="st2" cx="2435.3" cy="2009.6" r="21.4"/>
-		<circle class="st2" cx="1995.3" cy="2145.8" r="58.1"/>
+
+			<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -669.2788 926.9072)" class="st2" cx="1995.3" cy="2145.8" rx="58.1" ry="58.1"/>
 		<circle class="st2" cx="2440.5" cy="2113.9" r="31.4"/>
-		<circle class="st2" cx="2100.5" cy="1853.1" r="66.1"/>
+
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -65.1344 3629.6436)" class="st2" cx="2100.5" cy="1853.1" rx="66.1" ry="66.1"/>
 		<circle class="st2" cx="2119.3" cy="2209.3" r="18.8"/>
 		<circle class="st2" cx="2155" cy="2233.8" r="17.9"/>
-		<circle class="st2" cx="2042.9" cy="1918.6" r="16.5"/>
+
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -178.1627 3627.7947)" class="st2" cx="2042.9" cy="1918.6" rx="16.5" ry="16.5"/>
 		<circle class="st2" cx="2022.5" cy="1993.6" r="21.7"/>
 		<circle class="st2" cx="2322.1" cy="2236.3" r="15.7"/>
 		<circle class="st2" cx="2297" cy="2266.5" r="19"/>
@@ -343,7 +347,8 @@
 		<circle class="st3" cx="1938.2" cy="2766.4" r="20.9"/>
 		<circle class="st3" cx="1984.3" cy="2765.2" r="20.7"/>
 		<circle class="st3" cx="1853.1" cy="2357.6" r="17.2"/>
-		<circle class="st3" cx="2024.2" cy="2577.9" r="25.6"/>
+
+			<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -832.436 970.8579)" class="st3" cx="2024.2" cy="2577.9" rx="25.6" ry="25.6"/>
 		<circle class="st3" cx="1457.6" cy="2790.3" r="49.5"/>
 		<circle class="st3" cx="1517.8" cy="2405.6" r="19.2"/>
 		<circle class="st3" cx="1714.6" cy="2851.6" r="17.3"/>
@@ -353,7 +358,8 @@
 		<circle class="st3" cx="1784.9" cy="2869.3" r="30.1"/>
 		<circle class="st3" cx="1482.7" cy="2468.1" r="14.5"/>
 		<circle class="st3" cx="1734.7" cy="2886.2" r="18.2"/>
-		<circle class="st3" cx="2025.2" cy="2632.7" r="24.6"/>
+
+			<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -853.3309 975.4119)" class="st3" cx="2025.2" cy="2632.7" rx="24.6" ry="24.6"/>
 		<circle class="st3" cx="1858.6" cy="2877.5" r="39.4"/>
 		<circle class="st3" cx="1503.2" cy="2441.3" r="14.7"/>
 		<circle class="st3" cx="2026.2" cy="2480.5" r="17.6"/>
@@ -364,7 +370,8 @@
 		<circle class="st3" cx="1889.6" cy="2348.6" r="15.7"/>
 		<circle class="st3" cx="1845.2" cy="2313" r="23.5"/>
 		<circle class="st3" cx="1751.8" cy="2290.8" r="19.3"/>
-		<circle class="st3" cx="2045.2" cy="2672" r="14.9"/>
+
+			<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -866.8494 986.0595)" class="st3" cx="2045.2" cy="2672" rx="14.9" ry="14.9"/>
 		<circle class="st3" cx="1473" cy="2413.7" r="21.7"/>
 		<circle class="st3" cx="1953.3" cy="2806.7" r="17.5"/>
 		<circle class="st3" cx="1534.8" cy="2365.8" r="15.3"/>
@@ -372,7 +379,8 @@
 		<circle class="st3" cx="1490.1" cy="2365.6" r="24.8"/>
 		<circle class="st3" cx="1888.4" cy="2313.1" r="15.1"/>
 		<circle class="st3" cx="1413.7" cy="2607" r="15.9"/>
-		<circle class="st3" cx="2045.4" cy="2537.2" r="15.7"/>
+
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 -786.6744 4149.7749)" class="st3" cx="2045.4" cy="2537.2" rx="15.7" ry="15.7"/>
 		<circle class="st3" cx="1442.7" cy="2453.3" r="23.5"/>
 		<circle class="st3" cx="1409.8" cy="2494.8" r="24.9"/>
 		<circle class="st3" cx="1992.1" cy="2806.5" r="16.7"/>
@@ -433,7 +441,8 @@
 		<circle class="st5" cx="2241.2" cy="2742.3" r="31.1"/>
 		<circle class="st5" cx="2303.9" cy="2786.2" r="20.6"/>
 		<circle class="st6" cx="1908.2" cy="1417.2" r="31.8"/>
-		<circle class="st6" cx="2010.5" cy="1417.2" r="65.9"/>
+
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 289.5532 3174.7288)" class="st6" cx="2010.5" cy="1417.2" rx="65.9" ry="65.9"/>
 		<circle class="st6" cx="1936.2" cy="1461.3" r="15.9"/>
 		<circle class="st6" cx="1919.3" cy="1314.7" r="66.7"/>
 		<circle class="st6" cx="1961.3" cy="1531.8" r="54.3"/>
@@ -442,7 +451,8 @@
 		<circle class="st6" cx="2047.1" cy="1510.3" r="29.6"/>
 		<circle class="st6" cx="1880.4" cy="1509.7" r="25"/>
 		<circle class="st6" cx="1860.9" cy="1385.6" r="20.6"/>
-		<circle class="st6" cx="2048" cy="1329.8" r="24.6"/>
+
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 407.3182 3138.3452)" class="st6" cx="2048" cy="1329.8" rx="24.6" ry="24.6"/>
 		<circle class="st6" cx="1811.3" cy="1453.9" r="59.2"/>
 		<circle class="st6" cx="2077.7" cy="1471" r="15.6"/>
 		<circle class="st6" cx="2084.4" cy="1363.8" r="20.7"/>
@@ -778,7 +788,8 @@
 		<circle class="st16" cx="2147.6" cy="3050.8" r="15.5"/>
 		<circle class="st16" cx="2146.9" cy="3129.7" r="21.5"/>
 		<circle class="st16" cx="2348.1" cy="3149.6" r="17.6"/>
-		<circle class="st16" cx="2035.1" cy="3080.1" r="96.2"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1581.8927 2341.1733)" class="st16" cx="2035.1" cy="3080.1" rx="96.2" ry="96.2"/>
 		<circle class="st16" cx="2261.6" cy="2962.6" r="17"/>
 		<circle class="st16" cx="2147.7" cy="3176.1" r="20.3"/>
 		<circle class="st16" cx="2132" cy="3014.6" r="16.2"/>
@@ -985,7 +996,8 @@
 		<circle class="st22" cx="1996.8" cy="809.4" r="18.4"/>
 		<circle class="st22" cx="2033.1" cy="557.6" r="27.4"/>
 		<circle class="st22" cx="2018.3" cy="508.1" r="19.7"/>
-		<circle class="st22" cx="2035" cy="797.2" r="17.1"/>
+
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 922.1235 2678.2261)" class="st22" cx="2035" cy="797.2" rx="17.1" ry="17.1"/>
 		<circle class="st22" cx="2095.6" cy="594.2" r="33.1"/>
 		<circle class="st22" cx="2098.1" cy="733.8" r="18.5"/>
 		<circle class="st22" cx="1950.4" cy="828.9" r="18.1"/>
@@ -993,14 +1005,16 @@
 		<circle class="st23" cx="1034.8" cy="2779.3" r="16.1"/>
 		<circle class="st23" cx="1091.6" cy="2779.3" r="36.1"/>
 		<circle class="st23" cx="1046.4" cy="2815.1" r="17"/>
-		<circle class="st23" cx="1044.9" cy="2738.6" r="21.3"/>
+
+			<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -968.4782 608.3291)" class="st23" cx="1044.9" cy="2738.6" rx="21.3" ry="21.3"/>
 		<circle class="st23" cx="1078.6" cy="2834.5" r="16"/>
 		<circle class="st23" cx="1098.3" cy="2697.3" r="41.6"/>
 		<circle class="st23" cx="990.7" cy="2812.2" r="34.3"/>
 		<circle class="st23" cx="1003.8" cy="2755.2" r="18.5"/>
 		<circle class="st23" cx="1116.4" cy="2831.8" r="17.3"/>
 		<circle class="st23" cx="1156.5" cy="2748.3" r="31.2"/>
-		<circle class="st23" cx="1034.1" cy="2893.5" r="53.3"/>
+
+			<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1743.1326 1578.7057)" class="st23" cx="1034.1" cy="2893.5" rx="53.3" ry="53.3"/>
 		<circle class="st23" cx="1154" cy="2807.1" r="23.1"/>
 		<circle class="st23" cx="966.1" cy="2763.6" r="15.5"/>
 		<circle class="st23" cx="1032" cy="2694.5" r="20.1"/>
@@ -1068,7 +1082,8 @@
 		<circle class="st24" cx="1284.2" cy="1458.8" r="23.9"/>
 		<circle class="st24" cx="1103.5" cy="1471.9" r="27.2"/>
 		<circle class="st24" cx="1307.1" cy="1293.5" r="19.3"/>
-		<circle class="st24" cx="1035.6" cy="1336.2" r="20.2"/>
+
+			<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -432.5114 498.0194)" class="st24" cx="1035.6" cy="1336.2" rx="20.2" ry="20.2"/>
 		<circle class="st24" cx="1319.5" cy="1344" r="15.1"/>
 		<circle class="st24" cx="1203.4" cy="1156.1" r="50.2"/>
 		<circle class="st24" cx="1350.7" cy="1313.3" r="24"/>
@@ -1376,7 +1391,8 @@
 		<circle class="st40" cx="1994.1" cy="3501.9" r="53.7"/>
 		<circle class="st40" cx="2099.3" cy="3501.9" r="46.9"/>
 		<circle class="st40" cx="2052.2" cy="3567.5" r="29.3"/>
-		<circle class="st40" cx="2051.3" cy="3455.3" r="15.4"/>
+
+			<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -1166.1414 1048.0192)" class="st40" cx="2051.3" cy="3455.3" rx="15.4" ry="15.4"/>
 		<circle class="st40" cx="2022.4" cy="3431.7" r="17.3"/>
 		<circle class="st40" cx="2083.9" cy="3432.2" r="20"/>
 		<circle class="st40" cx="1998.3" cy="3582" r="21.8"/>
@@ -1431,13 +1447,17 @@
 		<circle class="st45" cx="551.7" cy="2747" r="19.8"/>
 		<circle class="st45" cx="605.1" cy="2831.4" r="33.9"/>
 		<circle class="st45" cx="601.6" cy="2743.4" r="25.6"/>
-		<circle class="st45" cx="492.3" cy="2824.4" r="38.9"/>
-		<circle class="st45" cx="479.9" cy="2732.9" r="48.8"/>
+
+			<ellipse transform="matrix(3.327789e-02 -0.9994 0.9994 3.327789e-02 -2346.9182 3222.4373)" class="st45" cx="492.3" cy="2824.4" rx="38.9" ry="38.9"/>
+
+			<ellipse transform="matrix(0.9951 -9.853765e-02 9.853765e-02 0.9951 -266.958 60.5884)" class="st45" cx="479.9" cy="2732.9" rx="48.8" ry="48.8"/>
 		<circle class="st45" cx="634.7" cy="2781" r="20"/>
 		<circle class="st45" cx="553" cy="2857.6" r="19.8"/>
 		<circle class="st45" cx="568.4" cy="2706.1" r="19.8"/>
-		<circle class="st45" cx="517.5" cy="2880.1" r="17.6"/>
-		<circle class="st45" cx="531.7" cy="2680.4" r="20.4"/>
+
+			<ellipse transform="matrix(3.327804e-02 -0.9994 0.9994 3.327804e-02 -2378.2263 3301.4692)" class="st45" cx="517.5" cy="2880.1" rx="17.6" ry="17.6"/>
+
+			<ellipse transform="matrix(3.327784e-02 -0.9994 0.9994 3.327784e-02 -2164.9092 3122.6074)" class="st45" cx="531.7" cy="2680.4" rx="20.4" ry="20.4"/>
 		<circle class="st45" cx="589.5" cy="2898.3" r="30.2"/>
 		<circle class="st45" cx="614.1" cy="2690.9" r="23.8"/>
 		<circle class="st45" cx="650.3" cy="2740.8" r="18.6"/>
@@ -1481,7 +1501,8 @@
 		<circle class="st46" cx="819.7" cy="762.7" r="18.6"/>
 		<circle class="st46" cx="540.3" cy="862.1" r="16.3"/>
 		<circle class="st46" cx="851" cy="886" r="22.3"/>
-		<circle class="st46" cx="507.2" cy="815.9" r="35.9"/>
+
+			<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -273.6231 256.2037)" class="st46" cx="507.2" cy="815.9" rx="35.9" ry="35.9"/>
 		<circle class="st46" cx="812.9" cy="945.8" r="17.1"/>
 		<circle class="st46" cx="860.8" cy="805.5" r="28.6"/>
 		<circle class="st46" cx="727.1" cy="1024.2" r="45.2"/>
@@ -1513,7 +1534,8 @@
 		<circle class="st48" cx="375.4" cy="1715.8" r="41.1"/>
 		<circle class="st48" cx="362.1" cy="1534.9" r="15.8"/>
 		<circle class="st48" cx="263" cy="1646.4" r="15"/>
-		<circle class="st48" cx="249.4" cy="1575" r="26.7"/>
+
+			<ellipse transform="matrix(3.327790e-02 -0.9994 0.9994 3.327790e-02 -1333.0271 1771.8491)" class="st48" cx="249.4" cy="1575" rx="26.7" ry="26.7"/>
 		<circle class="st48" cx="293.4" cy="1691.7" r="16.7"/>
 		<circle class="st48" cx="405.2" cy="1536.2" r="22.8"/>
 		<circle class="st48" cx="295.6" cy="1530.8" r="17"/>
@@ -1536,12 +1558,14 @@
 		<circle class="st48" cx="201.1" cy="1594.5" r="20.8"/>
 		<circle class="st48" cx="502.7" cy="1562.8" r="37.5"/>
 		<circle class="st48" cx="481.5" cy="1628.5" r="16.3"/>
-		<circle class="st48" cx="240.2" cy="1488.5" r="21.9"/>
+
+			<ellipse transform="matrix(0.9951 -9.853765e-02 9.853765e-02 0.9951 -145.5043 30.9128)" class="st48" cx="240.2" cy="1488.5" rx="21.9" ry="21.9"/>
 		<circle class="st48" cx="421.6" cy="1496.9" r="15.1"/>
 		<circle class="st48" cx="220.7" cy="1536.4" r="16.8"/>
 		<circle class="st48" cx="458.7" cy="1492.9" r="17.6"/>
 		<circle class="st48" cx="507.8" cy="1660.4" r="20.5"/>
-		<circle class="st48" cx="512.6" cy="1712.9" r="27.6"/>
+
+			<ellipse transform="matrix(0.9239 -0.3827 0.3827 0.9239 -616.4792 326.5504)" class="st48" cx="512.6" cy="1712.9" rx="27.6" ry="27.6"/>
 		<circle class="st48" cx="191.7" cy="1638.2" r="19.3"/>
 		<circle class="st49" cx="3496.9" cy="1849.5" r="21.4"/>
 		<circle class="st49" cx="3574.1" cy="1849.5" r="51.3"/>
@@ -1608,10 +1632,12 @@
 		<circle class="st57" cx="2947.4" cy="557.7" r="22.3"/>
 		<circle class="st57" cx="3039.3" cy="554.8" r="16"/>
 		<circle class="st57" cx="2874.2" cy="494.2" r="70.1"/>
-		<circle class="st58" cx="2021.4" cy="386.2" r="43.5"/>
+
+			<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 1316.3943 2319.6362)" class="st58" cx="2021.4" cy="386.2" rx="43.5" ry="43.5"/>
 		<circle class="st58" cx="2120.4" cy="386.2" r="51"/>
 		<circle class="st58" cx="2065.4" cy="437.4" r="19.5"/>
-		<circle class="st58" cx="2065.1" cy="328.4" r="24.4"/>
+
+			<ellipse transform="matrix(0.2298 -0.9732 0.9732 0.2298 1271.0222 2262.8057)" class="st58" cx="2065.1" cy="328.4" rx="24.4" ry="24.4"/>
 		<circle class="st59" cx="1220.6" cy="3549.9" r="78"/>
 		<circle class="st59" cx="1321.8" cy="3549.9" r="18.6"/>
 		<circle class="st59" cx="1343.7" cy="3641.1" r="70.5"/>
@@ -1662,7 +1688,7 @@
 		<text transform="matrix(1 0 0 1 2853.1909 2639.7827)" class="st65 st66">28</text>
 		<text transform="matrix(1 0 0 1 1984.6025 1038.2987)" class="st65 st66">57</text>
 		<text transform="matrix(1 0 0 1 2512.8103 933.6699)" class="st65 st66">25</text>
-		<text transform="matrix(1 0 0 1 1846.6187 456.8997)" class="st65 st66">40</text>
+		<text transform="matrix(1 0 0 1 1846.6187 456.8996)" class="st65 st66">40</text>
 		<text transform="matrix(1 0 0 1 1293.712 2597.5835)" class="st65 st66">46</text>
 		<text transform="matrix(1 0 0 1 1091.3821 1120.7321)" class="st65 st66">26</text>
 		<text transform="matrix(1 0 0 1 913.0731 2184.7871)" class="st65 st66">36</text>
@@ -1697,7 +1723,7 @@
 		<text transform="matrix(1 0 0 1 746.8591 3095.4578)" class="st65 st66">15</text>
 		<text transform="matrix(1 0 0 1 3689.6897 2836.084)" class="st65 st66">38</text>
 		<text transform="matrix(1 0 0 1 3161.5261 816.0112)" class="st65 st66">20</text>
-		<text transform="matrix(1 0 0 1 2919.7993 369.5701)" class="st65 st66">54</text>
+		<text transform="matrix(1 0 0 1 2919.7993 369.57)" class="st65 st66">54</text>
 		<text transform="matrix(1 0 0 1 2083.1641 284.8552)" class="st65 st66">44</text>
 		<text transform="matrix(1 0 0 1 1311.7821 3455.03)" class="st65 st66">18</text>
 		<text transform="matrix(1 0 0 1 1848.5393 3603.812)" class="st65 st66">51</text>
@@ -2551,7 +2577,7 @@
 		<text transform="matrix(1 0 0 1 1715.458 816.0112)" class="st67 st68">Homosexuality</text>
 		<text transform="matrix(1 0 0 1 1967.1359 809.4199)" class="st67 st68">JoshU2uber</text>
 		<text transform="matrix(1 0 0 1 2019.3873 557.5723)" class="st67 st68">Lame</text>
-		<text transform="matrix(1 0 0 1 1996.8635 508.0972)" class="st67 st68">Mantrain</text>
+		<text transform="matrix(1 0 0 1 1996.8635 508.0971)" class="st67 st68">Mantrain</text>
 		<text transform="matrix(1 0 0 1 2011.7622 797.2153)" class="st67 st68">No Homo</text>
 		<text transform="matrix(1 0 0 1 2076.6052 594.1797)" class="st67 st68">Not gay</text>
 		<text transform="matrix(1 0 0 1 2077.8792 733.7729)" class="st67 st68">Pegging</text>
@@ -2606,7 +2632,7 @@
 		<text transform="matrix(1 0 0 1 1252.2454 2902.856)" class="st67 st68">Science</text>
 		<text transform="matrix(1 0 0 1 1165.0468 2636.7356)" class="st67 st68">Stephen Hawking</text>
 		<text transform="matrix(1 0 0 1 1092.34 2971.1741)" class="st67 st68">Ted Haggard</text>
-		<text transform="matrix(1 0 0 1 1015.6884 2965.5684)" class="st67 st68">The Rapture</text>
+		<text transform="matrix(1 0 0 1 1015.6885 2965.5684)" class="st67 st68">The Rapture</text>
 		<text transform="matrix(1 0 0 1 939.4676 2970.3152)" class="st67 st68">TheAmazingAtheist</text>
 		<text transform="matrix(1 0 0 1 810.3276 2743.4473)" class="st67 st68">Time Cube</text>
 		<text transform="matrix(1 0 0 1 1207.8221 2654.7388)" class="st67 st68">VenomFangX</text>
@@ -2656,7 +2682,7 @@
 		<text transform="matrix(1 0 0 1 688.492 2290.2957)" class="st67 st68">Friend Zone</text>
 		<text transform="matrix(1 0 0 1 607.533 2460.7942)" class="st67 st68">Gangbang</text>
 		<text transform="matrix(1 0 0 1 473.5958 2306.2407)" class="st67 st68">Genital Herpes</text>
-		<text transform="matrix(1 0 0 1 478.403 2386.1038)" class="st67 st68">Girlfriend</text>
+		<text transform="matrix(1 0 0 1 478.4031 2386.1038)" class="st67 st68">Girlfriend</text>
 		<text transform="matrix(1 0 0 1 723.5847 2361.7688)" class="st67 st68">Gullible</text>
 		<text transform="matrix(1 0 0 1 448.1255 2259.4861)" class="st67 st68">How is babby formed?</text>
 		<text transform="matrix(1 0 0 1 703.7569 2315.0518)" class="st67 st68">Kim Kardashian</text>
@@ -2672,14 +2698,14 @@
 		<text transform="matrix(1 0 0 1 734.269 2280.9658)" class="st67 st68">Nice Guys</text>
 		<text transform="matrix(1 0 0 1 706.3684 2204.1252)" class="st67 st68">Orgy</text>
 		<text transform="matrix(1 0 0 1 562.1047 2175.1936)" class="st67 st68">Paris Hilton</text>
-		<text transform="matrix(1 0 0 1 488.9383 2214.9521)" class="st67 st68">Pregnant</text>
+		<text transform="matrix(1 0 0 1 488.9382 2214.9521)" class="st67 st68">Pregnant</text>
 		<text transform="matrix(1 0 0 1 535.6409 2485.1401)" class="st67 st68">Prostitot</text>
 		<text transform="matrix(1 0 0 1 622.6741 2525.0042)" class="st67 st68">Prostitute</text>
 		<text transform="matrix(1 0 0 1 748.8265 2454.2266)" class="st67 st68">STD</text>
 		<text transform="matrix(1 0 0 1 445.9 2316.0288)" class="st67 st68">Stripper</text>
 		<text transform="matrix(1 0 0 1 683.5087 2483.5747)" class="st67 st68">Tim Sharky</text>
 		<text transform="matrix(1 0 0 1 485.4939 2470.5842)" class="st67 st68">Tony Eveready</text>
-		<text transform="matrix(1 0 0 1 445.5594 2368.8877)" class="st67 st68">Tween</text>
+		<text transform="matrix(1 0 0 1 445.5593 2368.8877)" class="st67 st68">Tween</text>
 		<text transform="matrix(1 0 0 1 817.7934 2286.0181)" class="st67 st68">Ugly</text>
 		<text transform="matrix(1 0 0 1 873.3447 2403.7732)" class="st67 st68">Whore</text>
 		<text transform="matrix(1 0 0 1 2600.8533 3349.8035)" class="st67 st68">Shit</text>
@@ -2850,7 +2876,7 @@
 		<text transform="matrix(1 0 0 1 1355.3882 774.75)" class="st67 st68">Pun</text>
 		<text transform="matrix(1 0 0 1 1269.9017 745.0613)" class="st67 st68">Robert Wayne Stiles</text>
 		<text transform="matrix(1 0 0 1 1353.4308 951.2776)" class="st67 st68">Sonic the Hedgehog</text>
-		<text transform="matrix(1 0 0 1 1023.2133 971.1411)" class="st67 st68">Special Snowflake Syndrome</text>
+		<text transform="matrix(1 0 0 1 1023.2134 971.1411)" class="st67 st68">Special Snowflake Syndrome</text>
 		<text transform="matrix(1 0 0 1 1186.7688 1039.0153)" class="st67 st68">Tara Strong</text>
 		<text transform="matrix(1 0 0 1 1301.6337 732.7153)" class="st67 st68">The Big Bang Theory</text>
 		<text transform="matrix(1 0 0 1 1259.4918 1025.897)" class="st67 st68">The Unknown Autobot</text>
@@ -2873,7 +2899,7 @@
 		<text transform="matrix(1 0 0 1 2356.7742 685.2297)" class="st67 st68">Neutral point of view</text>
 		<text transform="matrix(1 0 0 1 2261.5347 552.9414)" class="st67 st68">Non-notable</text>
 		<text transform="matrix(1 0 0 1 2276.0544 628.5508)" class="st67 st68">POV</text>
-		<text transform="matrix(1 0 0 1 2340.8979 467.2427)" class="st67 st68">Article</text>
+		<text transform="matrix(1 0 0 1 2340.8979 467.2426)" class="st67 st68">Article</text>
 		<text transform="matrix(1 0 0 1 2292.0459 671.9829)" class="st67 st68">Sceptre</text>
 		<text transform="matrix(1 0 0 1 2349.2847 707.2588)" class="st67 st68">SlimVirgin</text>
 		<text transform="matrix(1 0 0 1 2219.7268 672.0725)" class="st67 st68">Sock puppet</text>
@@ -2939,7 +2965,7 @@
 		<text transform="matrix(1 0 0 1 1417.5651 538.3274)" class="st67 st68">Awesome</text>
 		<text transform="matrix(1 0 0 1 1543.3611 538.3274)" class="st67 st68">TL;DR</text>
 		<text transform="matrix(1 0 0 1 1403.3925 640.6235)" class="st67 st68">The Internet is serious business</text>
-		<text transform="matrix(1 0 0 1 1445.162 474.6802)" class="st67 st68">Waaaambulance</text>
+		<text transform="matrix(1 0 0 1 1445.162 474.6801)" class="st67 st68">Waaaambulance</text>
 		<text transform="matrix(1 0 0 1 1984.6309 3501.8999)" class="st67 st68">Azn</text>
 		<text transform="matrix(1 0 0 1 2084.9385 3501.8999)" class="st67 st68">China</text>
 		<text transform="matrix(1 0 0 1 2033.5637 3567.5479)" class="st67 st68">College</text>
@@ -2978,7 +3004,7 @@
 		<text transform="matrix(1 0 0 1 515.887 1872.7491)" class="st67 st68">Butthurt</text>
 		<text transform="matrix(1 0 0 1 606.8826 1999.9688)" class="st67 st68">Crybaby</text>
 		<text transform="matrix(1 0 0 1 612.4506 1926.4352)" class="st67 st68">Hypocrisy</text>
-		<text transform="matrix(1 0 0 1 463.6989 1980.3517)" class="st67 st68">Onigojirakaiju</text>
+		<text transform="matrix(1 0 0 1 463.699 1980.3517)" class="st67 st68">Onigojirakaiju</text>
 		<text transform="matrix(1 0 0 1 446.996 1951.2484)" class="st67 st68">Sparkledogs</text>
 		<text transform="matrix(1 0 0 1 412.5032 2004.3043)" class="st67 st68">Stupid</text>
 		<text transform="matrix(1 0 0 1 2956.7354 866.5764)" class="st67 st68">Midget</text>
@@ -2998,13 +3024,13 @@
 		<text transform="matrix(1 0 0 1 522.6898 2746.9805)" class="st67 st68">Child abuse</text>
 		<text transform="matrix(1 0 0 1 584.5724 2831.366)" class="st67 st68">Children</text>
 		<text transform="matrix(1 0 0 1 569.7878 2743.4265)" class="st67 st68">Chuck Norris</text>
-		<text transform="matrix(1 0 0 1 453.2995 2824.4031)" class="st67 st68">DO IT FAGGOT</text>
+		<text transform="matrix(1 0 0 1 453.2996 2824.4031)" class="st67 st68">DO IT FAGGOT</text>
 		<text transform="matrix(1 0 0 1 465.254 2732.9402)" class="st67 st68">Death</text>
 		<text transform="matrix(1 0 0 1 606.8892 2781.0266)" class="st67 st68">Depression</text>
-		<text transform="matrix(1 0 0 1 533.1136 2857.6299)" class="st67 st68">Disease</text>
+		<text transform="matrix(1 0 0 1 533.1135 2857.6299)" class="st67 st68">Disease</text>
 		<text transform="matrix(1 0 0 1 547.6137 2706.0691)" class="st67 st68">Disorder</text>
 		<text transform="matrix(1 0 0 1 478.0214 2880.1267)" class="st67 st68">Bipolar Disorder</text>
-		<text transform="matrix(1 0 0 1 515.8189 2680.4473)" class="st67 st68">Expert</text>
+		<text transform="matrix(1 0 0 1 515.8188 2680.4473)" class="st67 st68">Expert</text>
 		<text transform="matrix(1 0 0 1 574.2374 2898.3088)" class="st67 st68">Funny</text>
 		<text transform="matrix(1 0 0 1 595.1964 2690.9363)" class="st67 st68">Kewlies</text>
 		<text transform="matrix(1 0 0 1 635.5958 2740.7932)" class="st67 st68">Never</text>
@@ -3048,7 +3074,7 @@
 		<text transform="matrix(1 0 0 1 791.829 762.7258)" class="st67 st68">PlayStation</text>
 		<text transform="matrix(1 0 0 1 507.9352 862.1353)" class="st67 st68">PlayStation 3</text>
 		<text transform="matrix(1 0 0 1 836.6479 885.9724)" class="st67 st68">Portal</text>
-		<text transform="matrix(1 0 0 1 470.8631 815.8984)" class="st67 st68">Pretty cool guy</text>
+		<text transform="matrix(1 0 0 1 470.863 815.8984)" class="st67 st68">Pretty cool guy</text>
 		<text transform="matrix(1 0 0 1 798.2117 945.7808)" class="st67 st68">Robot</text>
 		<text transform="matrix(1 0 0 1 832.0287 805.5352)" class="st67 st68">RuneScape</text>
 		<text transform="matrix(1 0 0 1 714.8502 1024.2349)" class="st67 st68">Srsly</text>
@@ -3085,12 +3111,12 @@
 		<text transform="matrix(1 0 0 1 331.257 1536.1718)" class="st67 st68">Evil-unveiled.com/BoyMoment</text>
 		<text transform="matrix(1 0 0 1 228.6465 1530.816)" class="st67 st68">Evil-unveiled.com/BoyTales</text>
 		<text transform="matrix(1 0 0 1 333.9963 1672.3928)" class="st67 st68">Evil-unveiled.com/Boylandonline.com</text>
-		<text transform="matrix(1 0 0 1 257.399 1491.7572)" class="st67 st68">Evil-unveiled.com/Boylover.net</text>
-		<text transform="matrix(1 0 0 1 330.1933 1569.4689)" class="st67 st68">Evil-unveiled.com/Christian Boylove Forum</text>
+		<text transform="matrix(1 0 0 1 257.3989 1491.7572)" class="st67 st68">Evil-unveiled.com/Boylover.net</text>
+		<text transform="matrix(1 0 0 1 330.1934 1569.4689)" class="st67 st68">Evil-unveiled.com/Christian Boylove Forum</text>
 		<text transform="matrix(1 0 0 1 170.5598 1681.621)" class="st67 st68">Evil-unveiled.com/Common Ground</text>
 		<text transform="matrix(1 0 0 1 172.563 1621.9093)" class="st67 st68">Evil-unveiled.com/Epifora</text>
 		<text transform="matrix(1 0 0 1 204.1475 1749.8661)" class="st67 st68">Evil-unveiled.com/Free Spirits Coalition</text>
-		<text transform="matrix(1 0 0 1 406.3404 1635.2156)" class="st67 st68">Butterfly Kisses</text>
+		<text transform="matrix(1 0 0 1 406.3403 1635.2156)" class="st67 st68">Butterfly Kisses</text>
 		<text transform="matrix(1 0 0 1 175.7067 1527.887)" class="st67 st68">Evil-unveiled.com/John Melanson</text>
 		<text transform="matrix(1 0 0 1 365.5811 1599.9603)" class="st67 st68">Evil-unveiled.com/Kidzlandonline.com</text>
 		<text transform="matrix(1 0 0 1 321.3668 1497.0183)" class="st67 st68">Evil-unveiled.com/LifeLine</text>
@@ -3099,15 +3125,15 @@
 		<text transform="matrix(1 0 0 1 106.228 1660.5541)" class="st67 st68">Evil-unveiled.com/Montreal Ganymede Collective</text>
 		<text transform="matrix(1 0 0 1 385.946 1666.6732)" class="st67 st68">Evil-unveiled.com/MrDouble.com</text>
 		<text transform="matrix(1 0 0 1 169.9623 1719.9735)" class="st67 st68">Evil-unveiled.com/Newgon.com</text>
-		<text transform="matrix(1 0 0 1 205.3714 1497.285)" class="st67 st68">Evil-unveiled.com/Open Hands</text>
+		<text transform="matrix(1 0 0 1 205.3713 1497.285)" class="st67 st68">Evil-unveiled.com/Open Hands</text>
 		<text transform="matrix(1 0 0 1 127.3766 1594.5161)" class="st67 st68">Evil-unveiled.com/Pedologues</text>
 		<text transform="matrix(1 0 0 1 430.5896 1562.7856)" class="st67 st68">Evil-unveiled.com/Pedospeak</text>
 		<text transform="matrix(1 0 0 1 344.0599 1628.5209)" class="st67 st68">Evil-unveiled.com/Reform Sex Offender Laws Campaign</text>
-		<text transform="matrix(1 0 0 1 175.4085 1488.5194)" class="st67 st68">Evil-unveiled.com/Rookiee</text>
+		<text transform="matrix(1 0 0 1 175.4084 1488.5194)" class="st67 st68">Evil-unveiled.com/Rookiee</text>
 		<text transform="matrix(1 0 0 1 265.452 1496.9326)" class="st67 st68">Evil-unveiled.com/Sex Offender Support and Education Network</text>
 		<text transform="matrix(1 0 0 1 142.7632 1536.3778)" class="st67 st68">Evil-unveiled.com/Steven Jones</text>
 		<text transform="matrix(1 0 0 1 367.9153 1492.9205)" class="st67 st68">Evil-unveiled.com/Sure Quality Radio</text>
-		<text transform="matrix(1 0 0 1 426.2376 1660.4434)" class="st67 st68">Evil-unveiled.com/Visions of Alice</text>
+		<text transform="matrix(1 0 0 1 426.2375 1660.4434)" class="st67 st68">Evil-unveiled.com/Visions of Alice</text>
 		<text transform="matrix(1 0 0 1 489.9438 1712.8571)" class="st67 st68">NAMBLA</text>
 		<text transform="matrix(1 0 0 1 148.8876 1638.2428)" class="st67 st68">Perverted-Justice</text>
 		<text transform="matrix(1 0 0 1 3462.0366 1849.4694)" class="st67 st68">Brian Peppers</text>
@@ -3177,7 +3203,7 @@
 		<text transform="matrix(1 0 0 1 2849.3076 494.1765)" class="st67 st68">Your Mom</text>
 		<text transform="matrix(1 0 0 1 1959.6021 386.1667)" class="st67 st68">Delete fucking everything</text>
 		<text transform="matrix(1 0 0 1 2113.3474 386.1667)" class="st67 st68">No</text>
-		<text transform="matrix(1 0 0 1 2047.7251 437.3699)" class="st67 st68">U MAD</text>
+		<text transform="matrix(1 0 0 1 2047.7251 437.3698)" class="st67 st68">U MAD</text>
 		<text transform="matrix(1 0 0 1 2056.1033 328.3882)" class="st67 st68">Yes</text>
 		<text transform="matrix(1 0 0 1 1211.1587 3549.9456)" class="st67 st68">Fap</text>
 		<text transform="matrix(1 0 0 1 1302.5347 3549.9456)" class="st67 st68">Omegle</text>
@@ -3189,17 +3215,17 @@
 		<text transform="matrix(1 0 0 1 1711.8531 3684.989)" class="st67 st68">Juggalo</text>
 		<text transform="matrix(1 0 0 1 1752.1689 3676.5261)" class="st67 st68">Too cool for the Internet</text>
 		<text transform="matrix(1 0 0 1 1819.2705 3766.6641)" class="st67 st68">Unwarranted Self-Importance</text>
-		<text transform="matrix(1 0 0 1 279.2746 2178.2227)" class="st67 st68">Pagan</text>
+		<text transform="matrix(1 0 0 1 279.2747 2178.2227)" class="st67 st68">Pagan</text>
 		<text transform="matrix(1 0 0 1 349.3157 2178.2227)" class="st67 st68">GTFO</text>
 		<text transform="matrix(1 0 0 1 287.4899 2216.6082)" class="st67 st68">Magic</text>
 		<text transform="matrix(1 0 0 1 286.7203 2144.3855)" class="st67 st68">Magick</text>
-		<text transform="matrix(1 0 0 1 321.6408 2270.2734)" class="st67 st68">Murder</text>
+		<text transform="matrix(1 0 0 1 321.6409 2270.2734)" class="st67 st68">Murder</text>
 		<text transform="matrix(1 0 0 1 309.9691 2115.793)" class="st67 st68">Ignored</text>
-		<text transform="matrix(1 0 0 1 405.2198 2249.1184)" class="st67 st68">Stfu</text>
+		<text transform="matrix(1 0 0 1 405.2197 2249.1184)" class="st67 st68">Stfu</text>
 		<text transform="matrix(1 0 0 1 323.2981 2108.4221)" class="st67 st68">The Royal Family</text>
 		<text transform="matrix(1 0 0 1 183.9377 2145.7842)" class="st67 st68">Unrealistic expectations</text>
 		<text transform="matrix(1 0 0 1 232.7793 2217.5488)" class="st67 st68">Vampire</text>
-		<text transform="matrix(1 0 0 1 392.8239 2115.49)" class="st67 st68">Wicca</text>
+		<text transform="matrix(1 0 0 1 392.824 2115.49)" class="st67 st68">Wicca</text>
 		<text transform="matrix(1 0 0 1 2888.7161 3441.1558)" class="st67 st68">Insane</text>
 		<text transform="matrix(1 0 0 1 2968.7249 3441.1558)" class="st67 st68">Psychopath</text>
 		<text transform="matrix(1 0 0 1 2945.5071 3490.5579)" class="st67 st68">Schizophrenia</text>
